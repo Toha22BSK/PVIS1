@@ -1,0 +1,12 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" D:\TUSUR\Maga\PVIS\laba1
+-- Conan: Adjusting output directories
+-- Conan: Using cmake targets configuration
+-- Library OpenCL not found in package, might be system one
+-- Library cfgmgr32 not found in package, might be system one
+-- Library ole32 not found in package, might be system one
+-- Conan: Adjusting default RPATHs Conan policies
+-- Conan: Adjusting language standard
+-- Current conanbuildinfo.cmake directory: D:/TUSUR/Maga/PVIS/laba1/cmake-build-release-visual-studio
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/TUSUR/Maga/PVIS/laba1/cmake-build-release-visual-studio

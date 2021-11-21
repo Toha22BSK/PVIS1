@@ -1,0 +1,45 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "options": "",
+    "requires": [
+     "1"
+    ],
+    "path": "..\\conanfile.txt",
+    "context": "host"
+   },
+   "1": {
+    "ref": "khronos-opencl-clhpp/20191105@bincrafters/stable#0",
+    "options": "khronos-opencl-icd-loader:shared=False",
+    "package_id": "5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9",
+    "prev": "0",
+    "requires": [
+     "2",
+     "3"
+    ],
+    "context": "host"
+   },
+   "2": {
+    "ref": "khronos-opencl-headers/20190806@bincrafters/stable#0",
+    "options": "",
+    "package_id": "5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9",
+    "prev": "5ba975c6432225f3d15d649941f2dcab",
+    "context": "host"
+   },
+   "3": {
+    "ref": "khronos-opencl-icd-loader/20191007@bincrafters/stable#0",
+    "options": "shared=False",
+    "package_id": "56e35e5408a87d63c636405aeca1cb689a9b2dbd",
+    "prev": "0",
+    "requires": [
+     "2"
+    ],
+    "context": "host"
+   }
+  },
+  "revisions_enabled": true
+ },
+ "version": "0.4",
+ "profile_host": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Release\ncompiler=Visual Studio\ncompiler.runtime=MD\ncompiler.version=16\nos=Windows\nos_build=Windows\n[options]\n[build_requires]\n[env]\n"
+}

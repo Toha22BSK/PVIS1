@@ -1,0 +1,5 @@
+[requires]
+khronos-opencl-clhpp/20191105@bincrafters/stable
+
+[generators]
+cmake

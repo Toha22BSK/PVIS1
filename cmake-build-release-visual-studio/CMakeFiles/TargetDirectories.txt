@@ -1,0 +1,3 @@
+D:/TUSUR/Maga/PVIS/laba1/cmake-build-release-visual-studio/CMakeFiles/1.dir
+D:/TUSUR/Maga/PVIS/laba1/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir
+D:/TUSUR/Maga/PVIS/laba1/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir
